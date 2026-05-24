@@ -1,0 +1,5 @@
+name: OnlineDSConnect
+version: 1.0
+main: net.yoroff.onlinedsconnect.OnlineDSConnect
+api-version: '1.21'
+author: yoroff
