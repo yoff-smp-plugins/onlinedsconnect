@@ -22,4 +22,5 @@ status-channel-id = "YOUR_STATUS_CHANNEL_ID"
 player-count-channel-id = "YOUR_PLAYER_COUNT_CHANNEL_ID"
 ```
 
-## ⚠️ Важно: Убедитесь, что у вашего Discord-бота в настройках интеграции выданы права Управление каналами (Manage Channels) и Подключаться (Connect) на целевые голосовые каналы, иначе JDA выбросит MissingAccessException.
+> [!WARNING]
+> Убедитесь, что у вашего Discord-бота в настройках интеграции выданы права **Управление каналами (Manage Channels)** и **Подключаться (Connect)** на целевые голосовые каналы, иначе JDA выбросит `MissingAccessException`.
